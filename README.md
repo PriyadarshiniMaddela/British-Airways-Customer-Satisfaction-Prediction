@@ -3,13 +3,13 @@ British Airways Customer Satisfaction Prediction
 
 This project predicts customer buying behaviour using machine learning techniques as part of the British Airways Data Science Virtual Experience. It showcases end‑to‑end data analysis, exploratory data analysis (EDA), feature engineering, model development, and performance evaluation.
 
-📌 Project Overview
+**📌 Project Overview**
 
 Airline customer satisfaction plays a crucial role in improving service quality and business outcomes. In this project, I analyze customer review data to uncover key drivers of satisfaction and build a machine learning model to predict whether a customer is likely to recommend British Airways.
 
 This is a solo project demonstrating data cleaning, EDA, Random Forest modelling, and insights communication.
 
-📊 Dataset
+**📊 Dataset**
 
 The dataset contains passenger reviews with fields such as:
 
@@ -27,9 +27,9 @@ Overall experience
 
 Customer comments
 
-Note: Raw dataset is not uploaded due to size/license. Instructions for obtaining it are included in the data/README.md.
+_Note:_ Raw dataset is not uploaded due to size/license. Instructions for obtaining it are included in the data/README.md.
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 
 Python (Pandas, NumPy, Scikit-learn, Matplotlib)
 
@@ -39,7 +39,7 @@ Random Forest Classifier
 
 NLP preprocessing (optional depending on review text)
 
-🔍 Exploratory Data Analysis (EDA)
+**🔍 Exploratory Data Analysis (EDA)**
 
 Key EDA steps included:
 
@@ -52,14 +52,14 @@ Outlier detection
 Feature correlation heatmap
 
 Class imbalance identification
-
-Insights:
+**
+Insights:**
 
 Service-related features strongly influence satisfaction.
 
 Some rating categories were highly correlated.
-
-⚙️ Model Development
+**
+⚙️ Model Development**
 
 A Random Forest Classifier was chosen due to its ability to:
 
@@ -69,7 +69,7 @@ Manage high-dimensional data
 
 Provide feature importance
 
-Key steps:
+**Key steps:**
 
 Data cleaning & preprocessing (handled in src/preprocessing.py)
 
@@ -87,7 +87,7 @@ Confusion Matrix
 
 Feature Importance
 
-Model Performance:
+**Model Performance:**
 
 The Random Forest model achieved strong predictive accuracy and identified top drivers such as cabin service, seat comfort, and cleanliness.
 
