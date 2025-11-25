@@ -93,11 +93,17 @@ The Random Forest model achieved strong predictive accuracy and identified top d
 **Key Takeaways:**
 
 ✅ Data Collection & Web Scraping
+
 ✅ Data Cleaning & Preprocessing
+
 ✅ Exploratory Data Analysis (EDA)
+
 ✅ Sentiment Analysis & Natural Language Processing (NLP)
+
 ✅ Machine Learning Model Development
+
 ✅ Feature Engineering & Model Optimization
+
 ✅ Data Visualization & Insights Communication
 
 
