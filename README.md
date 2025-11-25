@@ -1,5 +1,5 @@
 # British-Airways-Customer-Satisfaction-Prediction
-British Airways Customer Satisfaction Prediction
+**British Airways Customer Satisfaction Prediction**
 
 This project predicts customer buying behaviour using machine learning techniques as part of the British Airways Data Science Virtual Experience. It showcases end‑to‑end data analysis, exploratory data analysis (EDA), feature engineering, model development, and performance evaluation.
 
@@ -88,8 +88,17 @@ Confusion Matrix
 Feature Importance
 
 **Model Performance:**
-
 The Random Forest model achieved strong predictive accuracy and identified top drivers such as cabin service, seat comfort, and cleanliness.
+
+**Key Takeaways:**
+
+✅ Data Collection & Web Scraping
+✅ Data Cleaning & Preprocessing
+✅ Exploratory Data Analysis (EDA)
+✅ Sentiment Analysis & Natural Language Processing (NLP)
+✅ Machine Learning Model Development
+✅ Feature Engineering & Model Optimization
+✅ Data Visualization & Insights Communication
 
 
 
